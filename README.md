@@ -6,5 +6,4 @@ a clone of the Tesla website as part of my Code Nation project
 
 // The HTML was wasn't too difficult as I split each section and subsection into their own <div>'s but when it came to building the CSS, there was a lot more to it.
 
-// The website is unfinished and I have only been able to apply CSS to the beginning hero section. Hopefully, because all the sections of the page are replicated, 
-// it should be simple enough to build out the rest of the page.
+// The website is unfinished but most of the content is there. All that is left is to add the scroll-snap functionality, the burger menu, add the animated down arrow on the hero area, and make it responsive on mobile devices.
