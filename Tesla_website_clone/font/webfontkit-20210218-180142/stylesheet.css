@@ -6,16 +6,10 @@
     font-family: 'gotham_mediumregular';
     src: url('gotham_medium_regular-webfont.woff2') format('woff2'),
         url('gotham_medium_regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
 }
 
 @font-face {
     font-family: 'gothambook';
     src: url('gotham_book_regular-webfont.woff2') format('woff2'),
         url('gotham_book_regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
 }
